@@ -1,0 +1,17 @@
+{"level":"info","message":"Mongoose connected to MongoDB","timestamp":"2025-04-13T16:45:19.399Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-04-13T16:45:19.404Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-04-13T16:45:19.409Z"}
+{"level":"warn","message":"Mongoose disconnected from MongoDB","timestamp":"2025-04-13T19:11:12.778Z"}
+{"level":"info","message":"Mongoose connected to MongoDB","timestamp":"2025-04-13T19:11:13.079Z"}
+{"level":"warn","message":"Mongoose disconnected from MongoDB","timestamp":"2025-04-13T22:38:56.098Z"}
+{"level":"info","message":"Mongoose connected to MongoDB","timestamp":"2025-04-13T22:38:56.101Z"}
+{"level":"warn","message":"Mongoose disconnected from MongoDB","timestamp":"2025-04-14T05:54:25.571Z"}
+{"level":"info","message":"Mongoose connected to MongoDB","timestamp":"2025-04-14T05:54:25.579Z"}
+{"level":"warn","message":"Mongoose disconnected from MongoDB","timestamp":"2025-04-14T10:43:03.311Z"}
+{"level":"info","message":"Mongoose connected to MongoDB","timestamp":"2025-04-14T10:43:03.474Z"}
+{"level":"warn","message":"Mongoose disconnected from MongoDB","timestamp":"2025-04-15T04:53:35.598Z"}
+{"level":"info","message":"Mongoose connected to MongoDB","timestamp":"2025-04-15T04:53:35.616Z"}
+{"level":"warn","message":"Mongoose disconnected from MongoDB","timestamp":"2025-04-15T09:09:50.101Z"}
+{"level":"info","message":"Mongoose connected to MongoDB","timestamp":"2025-04-15T09:09:50.242Z"}
+{"level":"warn","message":"Mongoose disconnected from MongoDB","timestamp":"2025-04-15T09:41:22.694Z"}
+{"level":"info","message":"Mongoose connected to MongoDB","timestamp":"2025-04-15T09:42:04.144Z"}
