@@ -16,6 +16,15 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(bodyParser.urlencoded({ extended: true, limit: "20mb" }));
 
+// Test route to check server status
+app.get("/api/status", (req, res) => {
+  res.status(200).json({
+    status: "success",
+    message: "Server is running",
+    timestamp: new Date().toISOString(),
+  });
+});
+
 const startServer = async () => {
   try {
     await connectDB();
